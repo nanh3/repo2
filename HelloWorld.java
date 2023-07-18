@@ -1,6 +1,6 @@
 public class HelloWorld {
 public static void main(String[] args) {
 
-System.out.println("Hola Mundo generando conflicto :D");
+System.out.println("Hola Mundo prueba de branch");
 }
 }
